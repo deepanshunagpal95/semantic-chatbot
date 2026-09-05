@@ -9,9 +9,10 @@ Folder structure
 This chatbot currently supports two intents:
 
 - **faq**: Triggered when users ask questions related to the platform's policies or general information. eg. Is online payment available?
-- **sql**: Activated when users request product listings or information based on real-time database queries. 
+- **sql**: Activated when users request product listings or information based on real-time database queries. eg. Show me all nike shoes below Rs. 3000.
 
-![product screenshot](semantic-chatbot/app/resources/product-ss.png)
+
+![product screenshot](app/resources/product-ss.png)
 
 
 ## Architecture
